@@ -46,8 +46,8 @@ function App() {
 				);
 				setFilteredPlaces([]);
 				setRating('');
+				setIsLoading(false);
 			});
-			setIsLoading(false);
 		}
 	}, [type, bounds]);
 
