@@ -16,9 +16,6 @@ function App() {
 	const [weatherData, setWeatherData] = useState([]);
 	const [autocomplete, setAutoComplete] = useState(null);
 
-	console.log('places from App.js => ', places);
-	console.log('filteredPlaces from App.js => ', filteredPlaces);
-
 	const [type, setType] = useState('restaurants');
 	const [rating, setRating] = useState('');
 
