@@ -14,7 +14,7 @@
 
 ## About The Project
 
-Travel Pal is a traveling assistant that allows travelers to search restaurants, hotels and attractions in places where they stay or plan to visit.
+Travel Pal is a traveling assistant that allows users to search restaurants, hotels and attractions in places where they stay or plan to visit.
 
 ### Tech
 
